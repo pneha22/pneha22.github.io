@@ -1,1 +1,1 @@
-# pneha22.github.io
+This code will generate a web page with a button at the center of the page. When the button is clicked, the background color of the page will change to a new random color from a predefined array of colors. The button is styled with CSS to have a green background color and white text. The JavaScript function changeBackgroundColor() is triggered when the button is clicked and it selects a random color from the array and applies it as the new background color of the page.
